@@ -25,11 +25,11 @@ controls
 
 Schedule
 
-Week 2
+Week 3
 finish core gameplay or chromo
 add 2 more mini games
 
-Week 3
+Week 4
 polish graphics
 
 
