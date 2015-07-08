@@ -2,7 +2,7 @@
 A Prism Of Knowledge
 
 Objective
-* to explain complex chemistry ideas using simplified games
+* to explain chemistry ideas and labs using simplified games
 
 Gameplay Mechanics
 * It is a single player, minigame collection where the player collects badges based on the games that they collect (for now. maybe a dumb way to die mechanic would be better)
