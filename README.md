@@ -26,7 +26,8 @@ controls
 Schedule
 
 Week 2
-finish core gameplat
+finish core gameplay or chromo
+add 2 more mini games
 
 Week 3
 decide whether to polish or start over
